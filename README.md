@@ -4,12 +4,8 @@ A Discord money system bot which allows the user to earn money by sending messag
 
 ## Built With
 
-- Web
-  - [typescript](https://www.npmjs.com/package/typescript)
-  - [React](https://www.npmjs.com/package/react)
-  - [tailwindcss](https://www.npmjs.com/package/tailwindcss)
-  - [Prisma](https://www.npmjs.com/package/prisma)
-  - [NextAuth](https://www.npmjs.com/package/next-auth)
+- Libraries
+  - [Discord.js](https://discord.js.org/)
 
 <!-- GETTING STARTED DEVELOPMENT  -->
 
