@@ -48,9 +48,7 @@ module.exports = {
               messageCount: 0,
             },
           });
-          message.reply("Du hast 20 Coins bekommen!");
         }
-        message.reply(user.id + " " + user.name + " " + user.messageCount);
       } catch (error) {
         console.log(error);
       }
